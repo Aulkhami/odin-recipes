@@ -1,0 +1,13 @@
+body {
+  padding: 24px;
+  margin: auto;
+  margin-top: 24px;
+  margin-bottom: 24px;
+
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: lightgray;
+
+  width: 640px;
+}
